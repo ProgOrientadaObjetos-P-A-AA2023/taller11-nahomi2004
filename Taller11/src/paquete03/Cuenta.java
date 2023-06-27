@@ -65,7 +65,6 @@ public class Cuenta {
     }
     
     public double obtenerValorCancelar() {
-        
         return valorCancelar;
     }
     
